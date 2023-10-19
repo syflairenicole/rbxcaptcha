@@ -17,7 +17,6 @@ def RetrievePixels(path):
     img_pixels_str = img_pixels_str.replace("'","").replace("(","").replace(")","").replace("[","").replace("]","").replace(";,",";").replace(" ","")
     img_pixels_str = img_pixels_str[0:len(img_pixels_str)-1].replace("\n","")
 
-'''# EXAMPLE USAGE
-from module import RetrievePixels
-print(RetrievePixels("example.png"))
-'''
+# EXAMPLE USAGE (IN OTHER FILES)
+#  from module import RetrievePixels
+# print(RetrievePixels("example.png"))
