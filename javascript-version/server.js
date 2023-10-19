@@ -1,27 +1,10 @@
-const CaptchaGen = require("captchagen.js");
+const GenerateCaptcha = require("captchagen.js");
 const express = require('express');
 const app = express();
 
-async function generateCaptcha(options) {
-    var captchaObject = svgCaptcha.create(options || {
-      size: 6,
-      noise: 1,
-      color: false,
-    })
-  console.log(captchaObject.data)
-    const png = await svg2png({
-      input: captchaObject.data.toString().trim(),
-      encoding: 'dataURL', 
-      format: 'png',
-    });
-    console.log(png)
-}
-
-/*app.post('/getcaptcha', async(req, res) => {
-  
-  
-  res.send(png);
+app.post('/getcaptcha', async(req, res) => {
+  const size = req.query.size || 8
+  res.send(GenerateCaptcha(size));
 });
 
 app.listen(3000);
-*/
