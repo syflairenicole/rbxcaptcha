@@ -1,4 +1,4 @@
-# EXAMPLE USAGE (IN OTHER FILES)
+# EXAMPLE USAGE IN OTHER FILES
 #  from module import RetrievePixels
 #  print(RetrievePixels("example.png"))
 
