@@ -6,6 +6,7 @@
 
 const fs = require('fs');
 const jimp = require("jimp");
+
 async function DecodePixels(path) {
 	try {
 		return jimp.read(path)
