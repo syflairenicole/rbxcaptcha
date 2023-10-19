@@ -36,5 +36,7 @@ async function RetrievePixels(path) {
 module.exports = RetrievePixels
 
 // EXAMPLE USAGE (IN OTHER FILES)
-//  const RetrievePixels = require(convertjs);
-//  console.log(RetrievePixels("example.png"));
+//  const RetrievePixels = require("convertjs.js")
+//  RetrievePixels("example.png").then((res)  => {
+//  	console.log(res);
+//  })
