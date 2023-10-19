@@ -8,5 +8,4 @@ By the way, you can use my web app if you can't create your own: [coming soon]
 ## Step 1 - Choose a website to deploy your web app (Glitch, Replit)
 You can either use a paid website or the following free ones: Glitch, Replit <br> For this tutorial, I will be using **Glitch**. </br>
 
-> 1) Sign up and create a new project
-Navigate to `https://glitch.com` in your browser:
+> 1) Sign up and create a new project <br>Navigate to `https://glitch.com` in your browser:</br>
