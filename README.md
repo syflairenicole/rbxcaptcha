@@ -10,7 +10,7 @@ You can either use a paid website or the following free ones: Glitch, Replit <br
 
 > 1) Sign up and create a new project
 
-Navigate to `https://glitch.com` in your browser:<br><img src="https://github.com/syflairenicole/rbxcaptcha/assets/105584041/e46fec81-6729-4f5b-9d7f-cff876fd5de9" width=80% height=80%></br>
+Navigate to https://glitch.com in your browser:<br><img src="https://github.com/syflairenicole/rbxcaptcha/assets/105584041/e46fec81-6729-4f5b-9d7f-cff876fd5de9" width=80% height=80%></br>
 
 To sign up, click **'Sign Up'** bottom at the top of the screen, or log in if you already have an account registered
 
