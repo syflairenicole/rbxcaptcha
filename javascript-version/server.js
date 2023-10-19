@@ -1,8 +1,6 @@
-import {svg2png} from 'svg-png-converter'
-var svgCaptcha = require('svg-captcha');
-//const express = require('express');
-
-//const app = express();
+const CaptchaGen = require("captchagen.js");
+const express = require('express');
+const app = express();
 
 async function generateCaptcha(options) {
     var captchaObject = svgCaptcha.create(options || {
