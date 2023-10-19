@@ -1,0 +1,27 @@
+§
+
+    X1e  ã                   óJ   — d Z ddlmZ ej        Z[g d¢Z G d„ de¦  «        ZdS )ah  Pillow (Fork of the Python Imaging Library)
+
+Pillow is the friendly PIL fork by Jeffrey A. Clark (Alex) and contributors.
+    https://github.com/python-pillow/Pillow/
+
+Pillow is forked from PIL 1.1.7.
+
+PIL is the Python Imaging Library by Fredrik Lundh and contributors.
+Copyright (c) 1999 by Secret Labs AB.
+
+Use PIL.__version__ for this Pillow version.
+
+;-)
+é   )Ú_version).ÚBlpImagePluginÚBmpImagePluginÚBufrStubImagePluginÚCurImagePluginÚDcxImagePluginÚDdsImagePluginÚEpsImagePluginÚFitsImagePluginÚFliImagePluginÚFpxImagePluginÚFtexImagePluginÚGbrImagePluginÚGifImagePluginÚGribStubImagePluginÚHdf5StubImagePluginÚIcnsImagePluginÚIcoImagePluginÚ
+ImImagePluginÚImtImagePluginÚIptcImagePluginÚJpegImagePluginÚJpeg2KImagePluginÚMcIdasImagePluginÚMicImagePluginÚMpegImagePluginÚMpoImagePluginÚMspImagePluginÚPalmImagePluginÚPcdImagePluginÚPcxImagePluginÚPdfImagePluginÚPixarImagePluginÚPngImagePluginÚPpmImagePluginÚPsdImagePluginÚQoiImagePluginÚSgiImagePluginÚSpiderImagePluginÚSunImagePluginÚTgaImagePluginÚTiffImagePluginÚWebPImagePluginÚWmfImagePluginÚXbmImagePluginÚXpmImagePluginÚXVThumbImagePluginc                   ó   — e Zd ZdZdS )ÚUnidentifiedImageErrora*  
+    Raised in :py:meth:`PIL.Image.open` if an image cannot be opened and identified.
+
+    If a PNG image raises this error, setting :data:`.ImageFile.LOAD_TRUNCATED_IMAGES`
+    to true may allow the image to be opened after all. The setting will ignore missing
+    data and checksum failures.
+    N)Ú__name__Ú
+__module__Ú__qualname__Ú__doc__© ó    úšC:\Users\fuenb\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\PIL/__init__.pyr3   r3   K   s   € € € € € ðð ð 	€Dr9   r3   N)r7   Ú r   Ú__version__Ú_pluginsÚOSErrorr3   r8   r9   r:   ú<module>r?      sv   ðð
+ð 
+ð Ð Ð Ð Ð Ð ð
+ Ô"€Øð/ð /ð /€ðd		ð 		ð 		ð 		ð 		˜Wñ 		ô 		ð 		ð 		ð 		r9   
