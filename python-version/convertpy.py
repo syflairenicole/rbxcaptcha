@@ -19,4 +19,4 @@ def RetrievePixels(path):
 
 # EXAMPLE USAGE (IN OTHER FILES)
 #  from module import RetrievePixels
-# print(RetrievePixels("example.png"))
+#  print(RetrievePixels("example.png"))
