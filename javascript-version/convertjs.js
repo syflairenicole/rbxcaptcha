@@ -33,4 +33,4 @@ async function RetrievePixels(path) {
 	return pixelsString;
 };
 
-module.exports.run = RetrievePixels
+module.exports = RetrievePixels
