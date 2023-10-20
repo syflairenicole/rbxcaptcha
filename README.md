@@ -30,7 +30,7 @@ Ignore all these except for <bold>'Import from GitHub'</bold>.<br>Click that but
 
 > Testing the app
 - Head over to Preview > Open preview pane
-- You should see this response (wait for load):
+- You should see this response by default (wait for load):
   - Http request with `https://project-name.glitch.me/getcaptcha?size=customSize`
 <br><img src="https://github.com/syflairenicole/rbxcaptcha/assets/105584041/9c2b0d8b-be8f-482d-974a-ddc24461c8a6" width=50% height=50%></br>
 
