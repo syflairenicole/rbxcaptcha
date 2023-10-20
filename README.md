@@ -45,4 +45,4 @@ Ignore all these except for <bold>'Import from GitHub'</bold>.<br>Click that but
 ## Step 3 - rbxcaptcha module (from Roblox)
 Obtain the module here: [link](www.example.com)
 
-- How to use:
+- General Usage Example:
