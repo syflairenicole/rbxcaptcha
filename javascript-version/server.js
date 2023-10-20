@@ -1,4 +1,4 @@
-const GenerateCaptcha = require("javascript-version/captchagen.js");
+const GenerateCaptcha = require("./captchagen.js");
 const express = require('express');
 const app = express();
 
