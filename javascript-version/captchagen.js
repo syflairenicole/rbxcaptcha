@@ -1,6 +1,6 @@
 // EXAMPLE USAGE IN OTHER FILES
 //   const GenerateCaptcha = require("captchagen.js")
-//   generateCaptcha({size: 8}).then((info) => {
+//   generateCaptcha({size: 8, noise: 1}).then((info) => {
 //       console.log(info)
 //   })
 
@@ -12,9 +12,10 @@ const RetrievePixels = require("./convertjs.js")
 async function generateCaptcha(options) {
     options = options || {}
     var info = "fail"
-    var captchaObject = svgCaptcha.create(options || {
-      size: options.size | 8,
-      noise: options.noise | 1,
+    console.log(options.noise, options.size)
+    var captchaObject = svgCaptcha.create({
+      size: options.size || 8,
+      noise: options.noise || 1,
       color: false,
     })
     console.log(captchaObject.data)
