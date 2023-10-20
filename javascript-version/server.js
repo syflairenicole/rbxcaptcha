@@ -1,10 +1,14 @@
-const GenerateCaptcha = require("captchagen.js");
+const GenerateCaptcha = require("javascript-version/captchagen.js");
 const express = require('express');
 const app = express();
 
-app.post('/getcaptcha', async(req, res) => {
-  const size = req.query.size || 8
-  res.send(GenerateCaptcha(size));
+app.use(express.static("public"));
+
+app.get('/getcaptcha', async(req, res) => {
+  const size = req.param("size") || 8
+  res.json(GenerateCaptcha(parseInt(size)));
 });
 
-app.listen(3000);
+const listener = app.listen(process.env.PORT, () => {
+  console.log("Your app is listening on port " + listener.address().port);
+});
