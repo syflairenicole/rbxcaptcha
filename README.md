@@ -43,3 +43,4 @@ Ignore all these except for <bold>'Import from GitHub'</bold>.<br>Click that but
 (Check logs tab if you have any issues, and post it in this repo.)
 
 ## Step 3 - rbxcaptcha module (from Roblox)
+Obtain here: [link](www.example.com)
