@@ -7,8 +7,7 @@ By the way, you can use my api if you can't create your own (as shown below): ht
 
 ![](https://komarev.com/ghpvc/?username=rbxcaptcha&label=Repo+Views)
 
-Updated: 10/20/2023 EST
-Credits: [@syflairenicole](https://github.com/syflairenicole)
+Updated: 10/20/2023 EST<br>Credits: [@syflairenicole](https://github.com/syflairenicole)</br>
 
 ## Step 1 - Choose a website to deploy your web app (Glitch, Replit)
 You can either use a paid web service or the following free ones: Glitch, Replit <br> For this tutorial, I will be using **Glitch**. </br>
