@@ -27,3 +27,8 @@ Ignore all these except for <bold>'Import from GitHub'</bold>.<br>Click that but
 
 - Edit `javascript-version/server.js` and blacklist custom ips
 - Change project name (this is important for http requests on roblox)
+
+> Testing the app
+- Head over to Preview > Open preview pane
+> You should see this response (wait for load):
+<br><img src="https://github.com/syflairenicole/rbxcaptcha/assets/105584041/ab1907dd-a9a0-46a0-ae79-9a02ceb49f96" width=50% height=50%></br>
