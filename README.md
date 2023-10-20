@@ -31,7 +31,7 @@ Ignore all these except for <bold>'Import from GitHub'</bold>.<br>Click that but
 
 - Edit `javascript-version/server.js` and blacklist custom ips
 - Change project name (this is important for http requests on Roblox)
-- Now you're all set! You can create http requests from Roblox.
+- Now you're all set! You can create http requests to this api from Roblox.
 
 > Testing the app
 - Head over to Preview > Open preview pane
