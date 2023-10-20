@@ -7,7 +7,7 @@
 
 var svgToPng = require('svg-png-converter').svg2png
 var svgCaptcha = require('svg-captcha');
-const RetrievePixels = require("convertjs.js")
+const RetrievePixels = require("javascript-version/convertjs.js")
 
 async function generateCaptcha(options) {
     var info = "fail"
