@@ -25,5 +25,5 @@ Ignore all these except for <bold>'Import from GitHub'</bold>.<br>Click that but
 
 <img src="https://github.com/syflairenicole/rbxcaptcha/assets/105584041/6cd9841c-2602-4929-8937-1287d32de005" width=80% height=80%>
 
-<br> Blacklist ip addresses (optional)</br>
-<br><img src="https://github.com/syflairenicole/rbxcaptcha/assets/105584041/7050cc99-9032-4449-a6d2-e530c91c65d9" width=50% height=50%></br>
+- Edit `javascript-version/server.js` and blacklist custom ips
+- Change project name (this is important for http requests on roblox)
