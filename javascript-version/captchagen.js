@@ -10,10 +10,11 @@ var svgCaptcha = require('svg-captcha');
 const RetrievePixels = require("./convertjs.js")
 
 async function generateCaptcha(options) {
+    options = options || {}
     var info = "fail"
     var captchaObject = svgCaptcha.create(options || {
-      size: 8,
-      noise: 1,
+      size: options.size | 8,
+      noise: options.noise | 1,
       color: false,
     })
     console.log(captchaObject.data)
