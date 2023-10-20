@@ -5,7 +5,9 @@ rbxcaptcha is an open-sourced **restful** web api and module used to generate te
 
 Javascript version is only available right now.
 Follow the steps if you want to setup your own rbxcaptcha. 
-By the way, you can use my api if you can't create your own (as shown below): https://rbxcaptcha-web.glitch.me/getcaptcha?size=8
+By the way, you can use my api if you can't create your own (as shown below): https://rbxcaptcha-web.glitch.me/getcaptcha?size=8&noise=1
+
+Parameters not required.
 
 ![](https://komarev.com/ghpvc/?username=rbxcaptcha&label=Repo+Views)
 
