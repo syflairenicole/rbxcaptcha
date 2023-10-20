@@ -1,5 +1,5 @@
 # rbxcaptcha
-rbxcaptcha is an open-sourced web api and module used to generate text-verification captchas and import them into Roblox
+rbxcaptcha is an open-sourced **restful** web api and module used to generate text-verification captchas and import them into Roblox
 
 Javascript version is only available right now.
 Follow the steps if you want to setup your own rbxcaptcha. 
