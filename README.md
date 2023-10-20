@@ -25,6 +25,5 @@ Ignore all these except for <bold>'Import from GitHub'</bold>.<br>Click that but
 
 <img src="https://github.com/syflairenicole/rbxcaptcha/assets/105584041/6cd9841c-2602-4929-8937-1287d32de005" width=80% height=80%>
 
-<br>> Edit javascript-version/server.js to blacklist any ip addresses (optional)</br>
-<br><img src="https://github.com/syflairenicole/rbxcaptcha/assets/105584041/95184895-c279-413e-ae6e-c9d3ca4b80f8" width=30% height=30%></br>
+<br> > Blaclist ip addresses (optional)</br>
 <br><img src="https://github.com/syflairenicole/rbxcaptcha/assets/105584041/7050cc99-9032-4449-a6d2-e530c91c65d9" width=50% height=50%></br>
