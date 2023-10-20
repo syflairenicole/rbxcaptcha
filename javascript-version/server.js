@@ -19,7 +19,8 @@ app.use((req, res, next) => {
 
 app.get("/getcaptcha", async (req, res) => {
   const size = req.param("size") || 8;
-  GenerateCaptcha(parseInt(size)).then((fres) => {
+  const noise = req.param("noise") || 1;
+  GenerateCaptcha(size:parseInt(size), parseInt(noise)).then((fres) => {
     res.send(fres);
   });
 });
