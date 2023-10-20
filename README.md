@@ -1,6 +1,8 @@
 # rbxcaptcha
 rbxcaptcha is an open-sourced **restful** web api and module used to generate text-verification captchas and import them into Roblox
 
+- Planning to add non-web version
+
 Javascript version is only available right now.
 Follow the steps if you want to setup your own rbxcaptcha. 
 By the way, you can use my api if you can't create your own (as shown below): https://rbxcaptcha-web.glitch.me/getcaptcha?size=8
@@ -42,7 +44,7 @@ Ignore all these except for <bold>'Import from GitHub'</bold>.<br>Click that but
 
 (Check logs tab if you have any issues, and post it in this repo.)
 
-## Step 3 - rbxcaptcha module (from Roblox)
+## Step 3 - rbxcaptcha-web module (from Roblox)
 Obtain the module here: [link](www.example.com)
 
 - General Usage Example:
