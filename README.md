@@ -31,4 +31,6 @@ Ignore all these except for <bold>'Import from GitHub'</bold>.<br>Click that but
 > Testing the app
 - Head over to Preview > Open preview pane
 - You should see this response (wait for load):
-<br><img src="https://github.com/syflairenicole/rbxcaptcha/assets/105584041/ab1907dd-a9a0-46a0-ae79-9a02ceb49f96" width=50% height=50%></br>
+<br><img src="https://github.com/syflairenicole/rbxcaptcha/assets/105584041/9c2b0d8b-be8f-482d-974a-ddc24461c8a6" width=50% height=50%></br>
+
+- Check LOGS tab if you have any issues, and post it in this repo.
