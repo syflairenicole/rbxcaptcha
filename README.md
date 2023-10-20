@@ -12,13 +12,13 @@ You can either use a paid web service or the following free ones: Glitch, Replit
 
 Navigate to https://glitch.com in your browser:<br><img src="https://github.com/syflairenicole/rbxcaptcha/assets/105584041/e46fec81-6729-4f5b-9d7f-cff876fd5de9" width=80% height=80%></br>
 
-To sign up, click **'Sign Up'** bottom at the top of the screen, or log in if you already have an account registered
+To sign up, click <bold>'Sign Up'</bold> bottom at the top of the screen, or log in if you already have an account registered
 
 Now that you've got that sorted out, you wanna go ahead and create a new project. <br>Find the **'New Project'** button at the top of the screen:</br><br>![image](https://github.com/syflairenicole/rbxcaptcha/assets/105584041/ce527b3a-23c3-427c-9d5c-4e2e6d67602c)</br>
 
 You will get this prompt:<br><img src="https://github.com/syflairenicole/rbxcaptcha/assets/105584041/a1916842-0886-48bd-a626-343fd1d88d59" width=25% height=25%></br>
 
-Ignore all these except for **'Import from GitHub'**.<br>Click that button and input this git repository into the text box followed by `.git`: </br><br>![image](https://github.com/syflairenicole/rbxcaptcha/assets/105584041/a3586af0-0c34-4302-a44a-47c100a049e6)</br>
+Ignore all these except for <bold>'Import from GitHub'</bold>.<br>Click that button and input this git repository into the text box followed by `.git`: </br><br>![image](https://github.com/syflairenicole/rbxcaptcha/assets/105584041/a3586af0-0c34-4302-a44a-47c100a049e6)</br>
 
 ## Step 2 - Setup your project
 > Your project should look like this
@@ -27,7 +27,6 @@ Ignore all these except for **'Import from GitHub'**.<br>Click that button and i
 
 > Edit javascript-version/server.js to blacklist any ip addresses (optional)
 
-- File List
-![image](https://github.com/syflairenicole/rbxcaptcha/assets/105584041/95184895-c279-413e-ae6e-c9d3ca4b80f8)
+- File List<br><img src="https://github.com/syflairenicole/rbxcaptcha/assets/105584041/95184895-c279-413e-ae6e-c9d3ca4b80f8" width=80% height=80%></br>
 - server.js
 ![image](https://github.com/syflairenicole/rbxcaptcha/assets/105584041/7050cc99-9032-4449-a6d2-e530c91c65d9)
