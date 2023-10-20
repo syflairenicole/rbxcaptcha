@@ -21,3 +21,13 @@ You will get this prompt:<br><img src="https://github.com/syflairenicole/rbxcapt
 Ignore all these except for **'Import from GitHub'**.<br>Click that button and input this git repository into the text box followed by `.git`: </br><br>![image](https://github.com/syflairenicole/rbxcaptcha/assets/105584041/a3586af0-0c34-4302-a44a-47c100a049e6)</br>
 
 ## Step 2 - Setup your project
+> Your project should look like this
+
+<img src="https://github.com/syflairenicole/rbxcaptcha/assets/105584041/6cd9841c-2602-4929-8937-1287d32de005" width=80% height=80%>
+
+> Edit javascript-version/server.js to blacklist any ip addresses (optional)
+
+- File List
+![image](https://github.com/syflairenicole/rbxcaptcha/assets/105584041/95184895-c279-413e-ae6e-c9d3ca4b80f8)
+- server.js
+![image](https://github.com/syflairenicole/rbxcaptcha/assets/105584041/7050cc99-9032-4449-a6d2-e530c91c65d9)
